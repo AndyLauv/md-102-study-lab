@@ -1,6 +1,6 @@
 // Service worker: caches the whole app (all content is bundled into app.js) for offline use.
 // Network-first when online so updates appear on the next open; falls back to cache offline.
-const VERSION = 'mwzfjcp4';
+const VERSION = 'mwzfqpot';
 const CACHE = 'md102-' + VERSION;
 const ASSETS = ['./', './index.html', './app.js', './app.css', './manifest.webmanifest', './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
