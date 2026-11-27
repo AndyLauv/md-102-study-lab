@@ -1,5 +1,5 @@
 // Service worker: caches the whole app (all content is bundled into app.js) for offline use.
-const VERSION = 'mwquu6ec';
+const VERSION = 'mwzeu1wh';
 const CACHE = 'md102-' + VERSION;
 const ASSETS = ['./', './index.html', './app.js', './app.css', './manifest.webmanifest', './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
